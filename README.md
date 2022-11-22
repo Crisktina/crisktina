@@ -14,7 +14,7 @@
 -->
 
 # Hi there 👋
-🌱 I’m currently learning different programming languages to become a Full Stack developer.
+🌱 I’m currently learning different programming languages to become a Full Stack developer. <br/>
 🔭 I have a background in graphic design and I am really motivated to combine my skills in web development.
 
 
