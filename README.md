@@ -18,7 +18,7 @@
 🔭 I have a background in graphic design and I am really motivated to combine my skills in web development.
 
 
-#### 🌐 Socials:
+#### 🌐 Get in touch:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/crishi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cristina-hidalgo-l%C3%B3pez-3898b1128/) 
 
 ## 💻 Tech Stack:
